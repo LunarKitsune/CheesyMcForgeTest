@@ -1,0 +1,13 @@
+This will be a reference to how my assets will be structured
+
+The resources folder will be structured as following (so far):
+
+resources (root of resources)
+ |
+ -->lang
+ |
+ -->models
+ |
+ -->textures
+ |
+ -->
