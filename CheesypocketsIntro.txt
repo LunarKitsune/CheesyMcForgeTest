@@ -1,0 +1,14 @@
+Hi I am cheesypockets.
+
+I am doing this project here to learn about minecraft modding and doing this as a project
+to have something to stimulate myself with while having an interesting time with more
+code learning.
+
+Ive played minecraft on and off and vanilla minecraft definitely gets stale after a while.
+After playing around a while on that I eventually started doing Medieval Minecraft that
+I downloaded from CursedForge and it changed how I look at minecraft.
+
+Now after a very long time later I am trying my hand at mmodding myself. I am very new to
+it so I am figuring out the mechanics and code that come from the forge MDKs as well as
+the original minecraft files. This will be more a journey and I hope to come out figuring
+what I want to mod while having picked up new things.
