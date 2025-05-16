@@ -1,0 +1,28 @@
+Specs of minecraft modding:
+Target: Minecraft 1.21.5
+Forge Version: 55.0.12
+Mapping Channel: Parchment, Mapping Version: 2025.04.19-1.21.5
+
+==========================================================================================
+
+Line 22: Need to figure out how blocks are registered properly to retrieve
+ID.
+
+Tutorial referenced for this part of the project:
+https://www.youtube.com/watch?v=Y2w0PgvABVU&list=PLKGarocXCE1GspJBXQEGuhazihZCSSLmK&index=3&t=97s
+
+It is noted:
+    1: KaupenJoe uses forge version 52 so they will definitely have changes
+       to how the coding is done a bit in minecraft
+
+    2: It was noted that others did in fact have trouble getting their custom
+       block to actually have an ID when running their client.
+
+Will want to figure out data generators so I don't have to worry about this.
+
+Will put a notes layout for anyone who wants to use it for the specs I am using to
+make modding much easier.
+
+Data Generator resources will be under:
+org/cheesy/cheesymodtest/datagen
+

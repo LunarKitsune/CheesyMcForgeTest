@@ -1,0 +1,15 @@
+=====DATA_GENERATORS_GUIDE=====
+
+Specs of minecraft modding:
+Target: Minecraft 1.21.5
+Forge Version: 55.0.12
+Mapping Channel: Parchment, Mapping Version: 2025.04.19-1.21.5
+
+==========================================================================================
+
+This will eventually become a guide for using data generators to get items working in
+Minecraft.
+
+I have repeated the specs over here to be a constant reminder to any users knowing
+which build they will be in here for which target to minecraft and the use of forge is
+going on here.

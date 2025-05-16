@@ -1,6 +1,5 @@
 {
-  "parent": "item/generated",
-  "credit": "made by cheesypockets",
+  "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "cheesymodtest:item/cheesite"
   }

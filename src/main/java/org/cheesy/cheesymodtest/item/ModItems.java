@@ -36,9 +36,4 @@ public class ModItems {
             "cheesite",
             () -> new Item(new Item.Properties().setId(ITEMS.key("cheesite"))));
 
-    public static int randFunction()
-    {
-        return 1;
-    }
-
 }
