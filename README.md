@@ -1,6 +1,6 @@
 !["TestAltText"](https://github.com/LunarKitsune/CheesyMcForgeTest/blob/DataGen/ReadMeAssets/CheesyPcksResized.png "CheesyPckt prof pic")
 
-# Welcome to my github project Minecraft 1.21.5 modding learning project!
+# Welcome to my Minecraft 1.21.5 modding learning project!
 
 To introduce myself: I am cheesypockets (username Lunar_Kitsune here on github)
 
