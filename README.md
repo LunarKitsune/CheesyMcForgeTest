@@ -2,10 +2,12 @@
 
 #Welcome to my github project Minecraft 1.21.5 modding learning project!
 
-To introduce myself I am cheesypockets (username Lunar_Kitsune here on github)
+To introduce myself: I am cheesypockets (username Lunar_Kitsune here on github)
 
 In the real world I work a 9 to 5 job at a hotel. Here I decided to do learn minecraft modding after playing medieval minecraft long ago
 made by Lunar Pixels and found vanilla minecraft to generally be more boring after. 
+
+I am following the KaupenJoe tutorials on youtube here: <a href="https://www.youtube.com/playlist?list=PLKGarocXCE1GspJBXQEGuhazihZCSSLmK">KaupenJoe 1.21 Forge Tutorials</a>
 
 #### 1. Do I have any plans on what I want to create?:
    Not quite at the moment! I am just learning the minecraft modding system with Forge 55.02 being with the ins and outs to create things.
